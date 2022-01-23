@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/e-commerce-deployed/static/css/main.69265c4b.chunk.css",
+    "main.css": "/e-commerce-deployed/static/css/main.132fd2f9.chunk.css",
     "main.js": "/e-commerce-deployed/static/js/main.4e6e5fc0.chunk.js",
     "main.js.map": "/e-commerce-deployed/static/js/main.4e6e5fc0.chunk.js.map",
     "runtime-main.js": "/e-commerce-deployed/static/js/runtime-main.d702cbfe.js",
@@ -8,7 +8,7 @@
     "static/js/2.bb225ae3.chunk.js": "/e-commerce-deployed/static/js/2.bb225ae3.chunk.js",
     "static/js/2.bb225ae3.chunk.js.map": "/e-commerce-deployed/static/js/2.bb225ae3.chunk.js.map",
     "index.html": "/e-commerce-deployed/index.html",
-    "static/css/main.69265c4b.chunk.css.map": "/e-commerce-deployed/static/css/main.69265c4b.chunk.css.map",
+    "static/css/main.132fd2f9.chunk.css.map": "/e-commerce-deployed/static/css/main.132fd2f9.chunk.css.map",
     "static/js/2.bb225ae3.chunk.js.LICENSE.txt": "/e-commerce-deployed/static/js/2.bb225ae3.chunk.js.LICENSE.txt",
     "static/media/bike1.png": "/e-commerce-deployed/static/media/bike1.8f53e29e.png",
     "static/media/bike10.png": "/e-commerce-deployed/static/media/bike10.3bf2309c.png",
@@ -102,7 +102,7 @@
   "entrypoints": [
     "static/js/runtime-main.d702cbfe.js",
     "static/js/2.bb225ae3.chunk.js",
-    "static/css/main.69265c4b.chunk.css",
+    "static/css/main.132fd2f9.chunk.css",
     "static/js/main.4e6e5fc0.chunk.js"
   ]
 }
